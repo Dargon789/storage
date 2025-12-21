@@ -2,4 +2,4 @@
 "<package-name>": patch
 ---
 
-Circleci project setup
+Set up CircleCI for continuous integration.
