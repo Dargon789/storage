@@ -2,4 +2,4 @@
 "@fake-scope/fake-pkg": patch
 ---
 
-Circleci project setup
+chore: Set up initial CircleCI configuration for the project
