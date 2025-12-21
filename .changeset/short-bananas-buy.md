@@ -1,5 +1,5 @@
 ---
-"@fake-scope/fake-pkg": patch
+"@vercel/blob": patch
 ---
 
 Dev vercel storage
