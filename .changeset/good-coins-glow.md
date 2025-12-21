@@ -1,5 +1,5 @@
 ---
-"@fake-scope/fake-pkg": patch
+"@vercel/edge-config": patch
 ---
 
 finalize cli
